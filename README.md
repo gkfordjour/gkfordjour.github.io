@@ -1,21 +1,34 @@
 ## About
-I am a Graduate Research Assistant at Tennessee Technological University, where I am pursuing my Master of Science degree in Civil Engineering. I have a Bachelor of Science degree in Civil Engineering from Kwame Nkrumah University of Science and Technology, Kumasi, where I graduated with honors and received multiple awards for excellence. My core competencies include machine learning, predictive modeling, deep learning and hydrological modeling.
+I am a Doctor of Philosophy candidate in Civil Engineering at the University of Kentucky, where I serve as a Graduate Teaching and Research Assistant. I hold a Master of Science degree in Civil Engineering from Tennessee Technological University and a Bachelor of Science degree in Civil Engineering from Kwame Nkrumah University of Science and Technology, Kumasi, where I graduated with honors and received multiple awards for excellence. My core competencies include machine learning, predictive modeling, deep learning, water distribution modeling, and hydrological modeling.
 
-As a Graduate Research Assistant, under the supervision of Dr. Alfred Kalyanapu, I am working on a deep learning-based flood forecasting model for predicting floods in inland areas in the United States. I use various data sources and tools to develop and test the model, and communicate the results and insights to the project stakeholders. I also assist in other research activities at the university, and contribute to the academic community. I am passionate about applying my skills and knowledge to solve real-world problems and improve the lives of people and communities. I am eager to learn from and collaborate with diverse and talented teams, and bring my perspectives and experiences to the table.
+During the summer of 2024, I worked as a Technical/Paraprofessional at the University of Kentucky. In this role, I developed and optimized water distribution models for utilities in Eastern Kentucky, collected and analyzed field data, including water quality parameters and pressure readings, and applied machine learning techniques to large datasets to extract functional relationships for water distribution modeling. I also assisted in organizing and conducting regional and utility-focused training workshops on water distribution systems.
+
+Previously, as a Graduate Research Assistant at Tennessee Technological University, I developed a suite of machine learning and deep learning models tailored for flood forecasting and water resource management. Key projects included creating a deep learning-based flood forecasting tool using the Firefly Algorithm for Cummins Falls State Park and an LSTM-based flood prediction system with transfer learning techniques for watersheds in Tennessee and Kentucky. I also developed flood early warning systems for the Elk River watershed and Ashland City, Tennessee, leveraging genetic algorithms and high-performance computing (HPC) clusters equipped with GPUs.
+
+I am passionate about leveraging cutting-edge machine learning and deep learning techniques to revolutionize water resources engineering, enhance public health and safety, and contribute to sustainable infrastructure development. I am eager to collaborate with interdisciplinary teams to drive impactful, data-driven solutions for pressing water resource issues.
 
 ## Skills
 • Programming Languages: Python, R, Matlab
 
 • Frameworks: Scikit, TensorFlow, Keras, Pytorch
 
-• Softwares: HEC-HMS, ArcGIS, HEC-RAS
+• Softwares: HEC-HMS, ArcGIS, HEC-RAS, KYPIPE, EPANET
 
 • Soft Skills: Leadership, Event Management, Writing, Public Speaking
 
 ## Research Projects
+• Developed a deep learning-based flood early warning system with genetic algorithm for the Elk River watershed.
+
+• Developed LSTM based flood prediction models with transfer learning techniques for watersheds in Tennessee and 
+Kentucky.
+
 • Developed a flood water level forecasting system using LSTM, 1D and 2D CNN deep learning architectures for watersheds in Tennessee and Kentucky.
 
-• Developed a flood early warning system for Ashland City, Tennessee using Machine Learning techniques.
+• Developed a deep learning-based flood forecasting tool with the Firefly Algorithm for the Cummins Falls State Park.
+
+• Developed a flood early warning system for Ashland City, Tennessee using Machine Learning techniques such as Random Forest, Support Vector Machines.
+
+• Developed 3D CNN models to estimate porosity values from 3D images.
 
 • Developed a configuration graphical user interface (GUI) in Python for a Machine Learning-based flood forecaster model for the Window Cliffs State Park, Tennessee.
 
@@ -27,20 +40,51 @@ As a Graduate Research Assistant, under the supervision of Dr. Alfred Kalyanapu,
 
 • Developed a HEC-HMS hydrological model for the Blackburn Fork Watershed in Tennessee.
 
-## Honors & Awards
-• People’s Choice Poster Award at the 23rd Tennessee Water Resources Conference - April 2023. 
+## Awards and Honors
+• First Place Poster Award Winner- 33rd American Water Resources Conference (Tennessee Section)- 2024
 
-• Outstanding Young Achiever nomination in EngineeringGhana Young Achievers Awards - November 2021
+• Outstanding Graduate Leader Award Winner- TTU Student Leaders Awards-2024
 
-• Excellent Student's Award - College of Engineering, KNUST - October 2021
+• People’s Choice Poster Award Winner- 32nd American Water Resources Conference (Tennessee Section)- 2023
 
-• Best Student MC - Ghana Students Awards- July 2021
+• Ghana Young Achievers Award- Outstanding Young Achiever in Engineering 2021
 
-• Excellent Student's Award - College of Engineering, KNUST - February 2019
+• Ghana Students Awards – Best Student MC Nominee 2021
 
-## Conference Proceedings
-• Poster presentation at Tennessee Water Resources Symposium - April 2023 
+• KNUST College of Engineering – Provost Excellent Student Award – 2020/2021
 
-• Poster Presentation at Tennessee Research and Creative Enquiry Day - April 2023
+• KNUST College of Engineering – Provost Excellent Student Award – 2019/2020
 
-• Climate change and society by Carleton University - October 2021
+• KNUST College of Engineering-Provost Excellent Student Award- 2017/2018
+
+## Publications and Conferences
+
+• **Fordjour, G.K.**, Nur, F., Kalyanapu, A.J. et al. Enhancing flood water level prediction through transfer learning with 
+warmup learning rate scheduling in LSTM models: a comparative case study in Kentucky and Tennessee 
+watersheds. Model. Earth Syst. Environ. 11, 14 (2025). https://doi.org/10.1007/s40808-024-02211-z.
+
+• **Fordjour, George Kwabena**. “Development of a Deep Learning-Based Flood Forecasting Tool with Firefly Algorithm 
+for the Blackburn Fork Watershed, Tennessee.” Tennessee Technological University ProQuest Dissertations & Theses
+(2024).
+
+• **Fordjour, George K.**, and Alfred J. Kalyanapu. "Implementing a GRU Neural Network for Flood Prediction in Ashland 
+City, Tennessee." arXiv preprint arXiv:2405.10375 (2024).
+
+• **Fordjour, G. K.**, and Kalyanapu, A. J. (2024). “Transfer Learning Approach for Flood Forecasting using Deep Learning based Models”. 
+19th Annual Research and Creative Inquiry Day, Tennessee Technological University, Cookeville, TN.
+
+• **Fordjour, G. K.**, Darkwah, G. K., and Kalyanapu, A. J. (2024). “Flood early warning systems using machine learning 
+techniques: The case of the Cumberland River at Ashland City, Tennessee”. 19th Annual Research and Creative 
+Inquiry Day, Tennessee Technological University, Cookeville, TN.
+
+• **Fordjour, G. K.**, and Kalyanapu, A. J. (2024). “Deep Learning Based Flood Early Warning System with Firefly Algorithm 
+for The Blackburn Fork Watershed, Tennessee”, 33rd Tennessee Water Resources Symposium, Proc., 2024 Tennessee 
+Water Resources Symposium, TNAWRA, Montgomery Bell State Park, April 2-4, 2024, Burns, TN. (won first place award).
+
+• **Fordjour, G. K.**, Darkwah, G. K., and Kalyanapu, A. J. (2023). “Flood early warning systems using machine learning 
+techniques: The case of the Cumberland River at Ashland City, Tennessee”, 32nd Tennessee Water Resources  Symposium, Proc., 2023 Tennessee Water Resources Symposium, 
+TNAWRA, Montgomery Bell State Park, April 12-14, 2023, Burns, TN. (won people’s choice award).
+
+
+
+
